@@ -1,0 +1,8 @@
+localhost:8086
+admin/admin
+java -jar jenkins.war --httpPort=8086
+
+github.com
+git-hub0528
+git.hib0528@gmail.com
+aSDF$12345678
